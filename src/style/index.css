@@ -19,6 +19,11 @@ ul {
   padding: 0;
 }
 
+.nav-list {
+  display: flex;
+  justify-content: space-around;
+}
+
 .content {
   display: flex;
 }
