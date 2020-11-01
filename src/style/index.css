@@ -19,6 +19,12 @@ ul {
   padding: 0;
 }
 
+.header {
+  background-color: #262626;
+  color: #91979d;
+  padding: 16px 0px;
+}
+
 .nav-list {
   display: flex;
   justify-content: space-around;
