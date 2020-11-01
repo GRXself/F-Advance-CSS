@@ -76,3 +76,35 @@ ul {
 .article-caption {
   padding: 5%;
 }
+
+.right-aside {
+  align-self: center;
+}
+
+.aside-login {
+  margin: 0px 5%;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
+
+.aside-login-form {
+  padding: 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.aside-login-input {
+  width: 90%;
+}
+
+.aside-login-button {
+  background-color: #3578f4;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
