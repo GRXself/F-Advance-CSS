@@ -33,6 +33,7 @@ ul {
 .content {
   display: flex;
   justify-content: space-between;
+  margin-top: 2%;
 }
 
 .aside {
@@ -41,7 +42,6 @@ ul {
 
 .aside-card {
   margin-left: 20%;
-  margin-top: 10%;
   padding: 10%;
 }
 
@@ -51,4 +51,28 @@ ul {
 
 .aside-title {
   font-style: italic;
+}
+
+.main {
+  width: 60%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-flow: wrap;
+}
+
+.main-article {
+  width: 48%;
+  height: auto;
+  margin: 1%;
+  box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.5);
+  border: 1px solid #eaeaea;
+}
+
+.article-photo {
+  width: 100%;
+}
+
+.article-caption {
+  padding: 5%;
 }
