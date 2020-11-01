@@ -38,3 +38,17 @@ ul {
 .aside {
   width: 20%;
 }
+
+.aside-card {
+  margin-left: 20%;
+  margin-top: 10%;
+  padding: 10%;
+}
+
+.about-content {
+  background-color: #f8f9fa;
+}
+
+.aside-title {
+  font-style: italic;
+}
