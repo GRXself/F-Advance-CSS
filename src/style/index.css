@@ -108,3 +108,10 @@ ul {
   cursor: pointer;
   width: 100%;
 }
+
+.footer {
+  padding: 1% 0px;
+  background-color: #f9f9f9;
+  color: #9d9d9d;
+  text-align: center;
+}
